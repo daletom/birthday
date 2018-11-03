@@ -1,0 +1,37 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More Sections on Zeek"
+    },
+    {
+      "type": "portrait",
+      "title": "Zeek's First Halloween",
+      "url": "https://thedales.me/halloween/",
+      "image": "https://tom.imgix.net/halloween.jpg?auto=format,compress&w=720&h=1280&fit=fill&fill=blur",
+      "category": "Halloween"
+    },
+        {
+      "type": "portrait",
+      "title": "Zeek's Disney Trip",
+      "url": "https://thedales.me/birthday/",
+      "image": "https://tom.imgix.net/disney_zeek_castle.HEIC?auto=format,compress&w=720&h=1280&fit=fill&fill=blur",
+      "category": "Halloween"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Go Back Home",
+          "url": "https://thedales.me/"
+        }
+      ]
+    }
+  ]
+}
